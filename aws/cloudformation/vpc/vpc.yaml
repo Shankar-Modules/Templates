@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Nested Stack created from the Master stack which creates All VPC Configurations
+Description: VPC Configurations Stack
 
 Parameters:
   ProjectName:
